@@ -31,3 +31,5 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 # How to have your image resized to what you want.
 
 # How to give a bg-black overlay over a cover image.
+
+# PAul George Right images doesn't work. Need to find solution to that.
